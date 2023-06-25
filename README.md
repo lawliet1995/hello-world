@@ -1,4 +1,4 @@
 # hello-world
-A student who studying civil engineering, wanna be a good programmer.
+A good programmer.
 
-I am a human,nit robor  Orz
+I am a human, not a robot.
